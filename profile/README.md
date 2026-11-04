@@ -20,7 +20,7 @@ We have also contributed to open source software maintained by others.
 
 | Software | Description |
 |------|-------------|
-| [VirtualFCS](https://github.com/Virtual-FCS/VirtualFCS) | An open Modelica library for dynamic modelling of hydrogen and hybrid energy systems. It brings together electrochemical, electrical, fluid, thermal, control, and vehicle models, with examples ranging from PEM fuel cell vehicles to ammonia cracking. It was initially developed within the [Virtual-FCS project](https://www.sintef.no/projectweb/virtual-fcs/) and further enhanced in several projects later. |
+| [VirtualFCS ![logo](img/VirtualFCS100.png)](https://github.com/Virtual-FCS/VirtualFCS) | An open Modelica library for dynamic modelling of hydrogen and hybrid energy systems. It brings together electrochemical, electrical, fluid, thermal, control, and vehicle models, with examples ranging from PEM fuel cell vehicles to ammonia cracking. It was initially developed within the [Virtual-FCS project](https://www.sintef.no/projectweb/virtual-fcs/) and further enhanced in several projects later. |
 | [AutoActive-ActivityPresenter](https://github.com/SINTEF/AutoActive-ActivityPresenter) | The main visualization tool in [AutoActive Research Environment](https://www.sintef.no/projectweb/autoactive/software-platform/) (ARE). ARE was developed in the research project [AutoActive](https://www.sintef.no/projectweb/autoactive/) to enable easy handling (synchronization, visualization, analysation) of sensor data from different commercially available wearable sensors for human activity and video. |
 
 <!-- Hidden for now, but might be needed later:
